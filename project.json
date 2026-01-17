@@ -1,6 +1,6 @@
 {
-  ""name"": ""specproj-0l9rjv0r"",
-  ""goal"": ""rule engine for content moderation"",
-  ""language"": ""node"",
-  ""template"": ""node-api""
+    "name":  "specproj-0l9rjv0r",
+    "goal":  "rule engine for content moderation",
+    "language":  "node",
+    "template":  "node-api"
 }
